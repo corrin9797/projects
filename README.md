@@ -18,6 +18,12 @@ It's a blog that uses SQL to post and comment on blog stuff.
 This is the engine we made to answer basic queries, i.e. using easily searchable terms such as who and when.
 #### https://github.com/cyntzhou/Query.git
 
+### API stuff
+#### Corrin, Sadman
+#### Description
+Originally we wanted to do a foursquare thing, but the authentication didn't work. So, this is a special searcher that filters for academic results... and wikipedia. Because wikipedia is good, dammit.
+#### https://github.com/sadmanf/APIproject.git
+
 ## Mini Projects
 
  * login
