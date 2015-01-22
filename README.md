@@ -33,11 +33,11 @@ Originally we wanted to do a foursquare thing, but the authentication didn't wor
 ## Mini Projects
 
  * login
-  * Corrin Offenholley, 
+  * Corrin Offenholley, Mark norwich
   * 6/login/Mark_Corrin
  * regexp
-  * Corrin Offenholley, 
+  * Corrin Offenholley, Mara and Anya
 	* 6/regexp/Maria-Anya-Corrin
  * intro-proj 1
-  * Corrin Offenholley, 
+  * Corrin Offenholley, Michael
   * 6/intro-proj1/Michael_Corrin
